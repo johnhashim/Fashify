@@ -81,6 +81,9 @@
     @include media-breakpoint-up(md){
         width: 30%;
         margin-top: 0px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
     }
 }
 
