@@ -27,7 +27,7 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 	text-align: center;
 }
 .advert{
-	padding:50px;
+	
 }
 
 @media only screen and (max-width: 768px) {
