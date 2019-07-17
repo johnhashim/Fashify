@@ -85,7 +85,7 @@
 	text-align: center;
 }
 .advertize{
-	padding:50px;
+	padding-bottom:50px;
 }
 
 @media only screen and (max-width: 768px) {
