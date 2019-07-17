@@ -14,7 +14,12 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 
 <aside id="secondary" class="sidebar widget-area" role="complementary">
 	<?php dynamic_sidebar( 'sidebar-1' ); ?>
-	<style>
+<style>
+.sidebar{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+	}
 .ad{
 	height: auto;
     padding: 9px 5px;
@@ -25,9 +30,6 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 	border: 1px solid #eee;
 	border-radius: 4px;	
 	text-align: center;
-}
-.advert{
-	
 }
 
 @media only screen and (max-width: 768px) {
