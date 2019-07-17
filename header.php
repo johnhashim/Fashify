@@ -82,7 +82,9 @@
     background: #fff;
     overflow: hidden;
 	border: 1px solid #eee;
-    border-radius: 4px;
+	border-radius: 4px;
+	max-width: 982px;	
+	text-align: center;
 }
 
 </style>
