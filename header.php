@@ -73,6 +73,19 @@
 	<div id="content" class="site-content">
 <div class="container">
 <div class="ads">
+<style>
+.ads{
+	height: auto;
+    padding: 9px 5px;
+    margin: auto;
+    box-shadow: 0px 0px 5px #777;
+    background: #fff;
+    overflow: hidden;
+	border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+</style>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 970by250 -->
 <ins class="adsbygoogle"
