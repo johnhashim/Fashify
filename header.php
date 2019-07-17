@@ -71,3 +71,16 @@
 	</nav><!-- #site-navigation -->
 
 	<div id="content" class="site-content">
+<div class="container">
+<div class="ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 970by250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-7616051391644176"
+     data-ad-slot="7650038623"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
