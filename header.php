@@ -88,6 +88,13 @@
 	padding:50px;
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .advertize{
+	display:none;
+}
+}
+
 </style>
 <div class="container advertize">
 <div class="ads">
