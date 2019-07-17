@@ -236,7 +236,7 @@ if ( ! function_exists( 'fashify_footer_site_info' ) ) {
     {
         ?>
 		<div class="theme-info-text">
-        	<?php printf( esc_html__( 'also member of %1$s', 'fashify' ), '<a href="https://dimeforum.com" rel="nofollow">dimeforum</a>' ); ?>
+        	<?php printf( esc_html__( 'Made with  %1$s', 'fashify' ), '<a href="https://blaqdu.com" rel="nofollow">Love</a>' ); ?>
 		</div>
 		<?php
     }
