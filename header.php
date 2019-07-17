@@ -71,9 +71,7 @@
 	</nav><!-- #site-navigation -->
 
 	<div id="content" class="site-content">
-<div class="container">
-<div class="ads">
-<style>
+	<style>
 .ads{
 	height: auto;
     padding: 9px 5px;
@@ -86,8 +84,13 @@
 	max-width: 982px;	
 	text-align: center;
 }
+.advertize{
+	padding:50px;
+}
 
 </style>
+<div class="container advertize">
+<div class="ads">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 970by250 -->
 <ins class="adsbygoogle"
